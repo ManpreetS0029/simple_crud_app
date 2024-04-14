@@ -1,2 +1,2 @@
-#Simple Crud App
-This is a simple crud app made with mongo db, express and node.
+# Simple Crud App
+This is a simple crud app made with Mongo DB, Express js, and Node js. 
